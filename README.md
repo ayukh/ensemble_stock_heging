@@ -1,4 +1,4 @@
-### EnHedge: Modeling an equity investment fund using financial derivative management and hedging strategies
+# EnHedge: Modeling an equity investment fund using financial derivative management and hedging strategies
 Bachelor thesis topic for Economic Cybernetics BSc program at National Technical University of Ukraine. <br>
 Accepted to Economic Bulletin of National Technical University of Ukraine “Kyiv Polytechnic Institute” 2023: [Paper link (Ukrainian with English abstract)](https://ev.fmm.kpi.ua/article/view/274836).
 
@@ -6,7 +6,7 @@ Accepted to Economic Bulletin of National Technical University of Ukraine “Kyi
 * 3 portfolio building methods for short- and long-term investment strategy: Markowitz, Huang-Litzenberger, Black-Litterman
 * Delta option hedging
 
-# Citation
+## Citation
 
 ```
 'МОДЕЛЮВАННЯ ІНВЕСТИЦІЙНОГО ФОНДУ АКЦІЙ ІЗ ЗАСТОСУВАННЯМ СТРАТЕГІЙ КЕРУВАННЯ ФІНАНСОВИМИ ДЕРИВАТИВАМИ ТА ХЕДЖУВАННЯ' (2023)
